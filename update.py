@@ -4,7 +4,7 @@ from config import TOKEN
 from typing import List
 import csv
 MENU = 0
-END_UPDATE = 9
+END_UPDATE = 8
 
 def search_contact_return_number_line(data_contact='иванов'):
     '''
